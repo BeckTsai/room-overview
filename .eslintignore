@@ -1,0 +1,13 @@
+node_modules
+dist
+types
+.vscode
+*.woff
+*.ttf
+*.sh
+*.scss
+*.css
+*.svg
+.eslintrc.js
+.prettierrc.js
+!.stylelintrc.js
